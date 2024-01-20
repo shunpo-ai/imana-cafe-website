@@ -1,0 +1,72 @@
+body{
+    background-image: url(beans.webp);
+    font-family: sans-serif;
+}
+
+.established{
+    font-style: italic;
+}
+.menu{
+    background-color: burlywood;
+    width: 80%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.coffee-icon{
+    width: 12%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.pie-icon{
+    width: 20%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.upper-line, .bottom-line{
+    background-color: brown;
+    height: 3px;
+}
+
+h1, h2{
+    font-family: Impact, serif;
+    margin: 0;
+}
+
+h1, h2, p{
+    text-align: center;
+}
+
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.flavor{
+    text-align: left;
+    width: 75%;
+}
+
+.price{
+    text-align: right;
+    width: 24%;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: white;
+}
+
+a:active{
+    color: brown;
+}
